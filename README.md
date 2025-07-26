@@ -14,5 +14,3 @@ Nesta lista, foram trabalhados os seguintes tópicos:
 - ✅ Paleta de cores harmônica (tons de rosa e lilás) e fontes do Google Fonts
 - ✅ Imagem de perfil redonda centralizada com efeito visual
 
-## 📁 Estrutura do Projeto
-
